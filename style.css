@@ -185,9 +185,10 @@ main p a:hover {
     resize: none;
     color: white;
 }
-.captcha {
+.rc-anchor-light.rc-anchor-normal {
     background-color: #131516;
-}
+    border: solid 1px #22148a;
+    color: white;
 #send {
     background-color: #22148a;
     width: 8rem;
