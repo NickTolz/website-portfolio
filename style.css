@@ -190,6 +190,11 @@ main p a:hover {
     border: solid 1px #22148a;
     color: white;
 }
+.rc-anchor-light {
+    background-color: #131516;
+    border: solid 1px #22148a;
+    color: white;
+}
 #send {
     background-color: #22148a;
     width: 8rem;
