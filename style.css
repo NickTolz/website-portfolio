@@ -185,6 +185,9 @@ main p a:hover {
     resize: none;
     color: white;
 }
+.captcha {
+    background-color: #131516;
+}
 #send {
     background-color: #22148a;
     width: 8rem;
