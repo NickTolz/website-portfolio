@@ -195,8 +195,7 @@ main p a:hover {
     width: 8rem;
     color: white;
     font-weight: 600;
-    margin: 1.6rem 0;
-    text-align: center;
+    padding: 0;
 }
 #anim a {
     display: inline-block;
