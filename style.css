@@ -6,7 +6,6 @@ html {
     scroll-behavior: smooth;
 }
 body {
-    /* background-color: #16151e; */
     background-color: #131516;
     color: white;
     font-family: 'Rubik',sans-serif;
@@ -183,21 +182,6 @@ main p a:hover {
     border-radius: 5px;
     border: solid 1px #22148a;
     resize: none;
-    color: white;
-}
-.rc-anchor-light.rc-anchor-normal {
-    background-color: #131516;
-    border: solid 1px #22148a;
-    color: white;
-}
-.rc-anchor-light {
-    background-color: #131516;
-    border: solid 1px #22148a;
-    color: white;
-}
-#rc-anchor-container {
-    background-color: #131516;
-    border: solid 1px #22148a;
     color: white;
 }
 #send {
